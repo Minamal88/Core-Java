@@ -1,16 +1,16 @@
-package ControlStructure;
+package controlStructure;
 
 public class DoWhile1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int i=6;
+		int i=1;
 		do
 		{
-			System.out.println("hello");
+			System.out.println("Hello");
 			i++;
 		}
-		while(i<=5);
+		while(i<=10);
 	}
 
 }
